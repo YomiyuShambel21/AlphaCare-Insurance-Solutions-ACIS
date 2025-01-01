@@ -16,7 +16,7 @@ This repository contains the analysis of historical insurance claim data for Alp
 
 ## Project Structure
 ```bash
-Telco-Telecom-Analysis/
+AlphaCare-Insurance-Solutions-ACIS/
 │
 ├── .vscode/                 # VSCode settings
 │   └── settings.json
@@ -51,8 +51,8 @@ Telco-Telecom-Analysis/
 
 ### 1. Clone this repository:
 ```bash
-git clone https://github.com/nebiyu-ethio/AlphaCare-Insurance-Analytics
-cd AlphaCare-Insurance-Analytics
+git clone https://github.com/YomiyuShambel21/AlphaCare-Insurance-Solutions-ACIS
+cd AlphaCare-Insurance-Solutions-ACIS
 ```
 
 ### 2. Create a virtual environment:
