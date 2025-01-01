@@ -1,4 +1,4 @@
 [core]
     remote = localstorage
 ['remote "localstorage"']
-    url = /home/neba/Desktop/Data_Engineering/KAMI/Week-3/storage
+    url = C:\Users\yami\Desktop\KIAM 3\Week 3\AlphaCare-Insurance-Solutions-ACIS\local_storage
