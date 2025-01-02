@@ -7,8 +7,8 @@ app/apps/MachineLearningRating_v3.zip
 app/apps/cleaned_insurance_data.zip
 
 # Ignore compiled Python files
-*.pyc
 __pycache__/
+*.pyc
 
 # Ignore specific directories
 data/
