@@ -1,3 +1,19 @@
+# Ignore environment files
 .env/
-/MachineLearningRating_v3.txt
+.env
+
+# Ignore specific files
+app/apps/MachineLearningRating_v3.zip
+app/apps/cleaned_insurance_data.zip
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore specific directories
 data/
+
+# Ignore IDE configurations
+.vscode/
+/.dvc/
+dvc-env/
